@@ -1,0 +1,457 @@
+product,strain,brand,product_category,batch_type,cannabis_product,requires_weighing,requires_inventory,member_discount_eligible,default_usable_weight,vendor,quantity,unit
+"Freddy :: Flower V2",,,Flower,Flower,true,true,false,true,,,,g
+"Freddy :: Flower",,,Flower,"Test Batch",true,true,false,true,,,,g
+"Freddy: test 33",,,Flower,Flower,true,false,false,true,33,,,u
+"Freddy: test 33",,,Flower,Flower,true,false,false,true,33,,,u
+"Freddy: test 33 V2",,,Flower,Flower,true,false,false,true,33,,,u
+"Freddy :: Test 33  V3",,,Concentrates,"Mature Plants",true,false,false,true,31,,,u
+"Freddy V1:: Concentrate","Wonder Woman",,Flower,Concentrate,true,false,false,true,9,,,u
+"Freddy V1:: Marijuana product","Granddaddy Purple",,Tinctures,"Marijuana Product",true,false,false,true,9,,,u
+"Freddy V1:: Flowers","Gelato OG",,Prerolls,Flower,true,true,false,true,,,,g
+"Freddy V1:: Non Cannabis product - Cafe",,,Non-THC,"Non-Cannabis Inventory",false,true,false,true,,,,g
+"Freddy V1:: Non Cannabis product - T-Shrits",,,Non-THC,"Non-Cannabis Inventory",false,false,false,true,,,,u
+"Freddy V1:: Non Cannabis product - Cups",,"Brand V1",Non-THC,"Non-Cannabis Inventory",false,false,false,true,,,,u
+"Freddy V2 :: Flowers","Wonder Woman","Brand V1",Flower,Flower,true,true,false,true,,VendorA1,,g
+"Watmerlon Zkittlez bulk flower",,,Flower,Flower,true,false,false,true,90,VendorA1,,u
+"The Clear disposable vape pen 350mg",,,Cartridges,Concentrate,true,false,false,true,350,"Stash House Distribution",,u
+"Freddy v2 :: cannabis product",,,Edibles,"Marijuana Product",true,false,false,false,4200,,,u
+"Non Canabis test","Wonder Woman","Brand V1","Body Care","Non-Cannabis Inventory",false,false,true,true,,VendorA1,,u
+"Non Canabis Prod","Mango Kush","Brand V1","Body Care","Non-Cannabis Inventory",false,true,false,true,,,,g
+"Pure AK bulk flower","Pure AK",,Flower,Flower,true,true,false,true,,"King's Garden",,g
+"Noble Nectar Citral Glue badder",,,Concentrates,Concentrate,true,false,false,true,1,"Noble Nectar",,u
+"Nice Cream Pint - Vanilla 250mg",,,Edibles,"Marijuana Product",true,false,false,true,250,"OK Nice Cream LLC",,u
+"Nice Cream Pint - Chocolate 250mg",,,Edibles,"Marijuana Product",true,false,false,true,250,"OK Nice Cream LLC",,u
+"Nice Cream Pint - Coffee",,,Edibles,"Marijuana Product",true,false,false,true,250,"OK Nice Cream LLC",,u
+"Nice Cream Bar - Vanilla",,,Edibles,"Marijuana Product",true,false,false,true,50,"OK Nice Cream LLC",,u
+"Freddy :: Marijuana (cannabis + weighing)","Gelato OG",,Flower,Flower,true,false,false,true,90,,,u
+"[OLD] Freddy :: Flowers (cannabis)",,,Edibles,"Marijuana Product",true,false,false,true,50,,,u
+"Freddy :: Mature Plants",AK-48,,Edibles,"Mature Plants",true,false,false,true,100,,,u
+"Freddy :: Concentrate",AK-48,,Edibles,Concentrate,true,false,false,true,90,,,u
+"Royal Sauce bulk flower","Royal Sauce",,Flower,Flower,true,true,false,true,,"Royal Leaf",,g
+"OG Kush bulk flower","OG Kush",,Flower,Flower,true,true,false,true,,HighQualiTHC,,g
+"Girl Scout Cookies 2 bulk flower","Girl Scout Cookies",,Flower,Flower,true,true,false,true,,"AOHH Farms",,g
+"OG Cheese bulk flower","OG Cheese",,Flower,Flower,true,true,false,true,,"AOHH Farms",,g
+"Ghost Train Haze bulk flower","Ghost Train Haze",,Flower,Flower,true,true,false,true,,"Blue Buffalo Farms",,g
+"Mango Kush bulk flower","Mango Kush",,Flower,Flower,true,true,false,true,,"Blue Buffalo Farms",,g
+"Sour Diesel 2 bulk flower","Sour Diesel",,Flower,Flower,true,true,false,true,,"Blue Buffalo Farms",,g
+"AK-48 bulk flower",AK-48,,Flower,Flower,true,true,false,true,,"Blue Buffalo Farms",,g
+"Sour Tangie bulk flower","Sour Tangie",,Flower,Flower,true,true,false,true,,"Budwise or 918 Concentrates",,g
+"GG4 bulk flower",GG4,,Flower,Flower,true,true,false,true,,"Budwise or 918 Concentrates",,g
+"Violet Delight shatter",,,Concentrates,Concentrate,true,false,false,true,1,"918 Concentrates",,u
+"Tangie Sugar",,,Concentrates,Concentrate,true,false,false,true,1,"918 Concentrates",,u
+"Blue Cheese crumble",,,Concentrates,Concentrate,true,false,false,true,1,"918 Concentrates",,u
+"Watermelon Zkittlez",,,Flower,Flower,true,true,false,true,,,,g
+"Hindu Kush bulk flower",,,Flower,Flower,true,true,false,false,,,,g
+"Amnesia Bilbo bulk flower",,,Flower,Flower,true,true,false,true,,,,g
+"Pineapple Express #2 bulk flower",,,Flower,Flower,true,true,false,true,,,,g
+"Best Mango bulk flower",,,Flower,Flower,true,true,false,true,,,,g
+"Cheese bulk flower",,,Flower,Flower,true,true,false,true,,,,g
+"Gandalf OG Crumble 1g","Gandalf OG",,Concentrates,Concentrate,true,false,false,true,1,,,u
+"Shipwreck Rosin .5g",Shipwreck,,Concentrates,Concentrate,true,false,false,true,0.5,,,u
+"Animal Cookies wax 1g","Animal Cookies",,Concentrates,Concentrate,true,false,false,true,1,,,u
+"Tangerine Sunrise wax .5g","Tangerine Sunrise",,Concentrates,Concentrate,true,false,false,true,0.5,,,u
+"Tangerine Sunrise wax .25g","Tangerine Sunrise",,Concentrates,Concentrate,true,false,false,true,0.25,,,u
+"Animal Cookies wax .25g","Animal Cookies",,Concentrates,Concentrate,true,false,false,true,0.25,,,u
+"Cakewalk crumble .25g",Cakewalk,,Concentrates,Concentrate,true,false,false,true,0.25,,,u
+"Gandalf crumble .5g","Gandalf OG",,Concentrates,Concentrate,true,false,false,true,0.5,,,u
+"Cakewalk crumble .5g",Cakewalk,,Concentrates,Concentrate,true,false,false,true,0.5,,,u
+"Medusa rosin .25g",Medusa,,Concentrates,Concentrate,true,false,false,true,0.25,,,u
+"Sweeth Tooth shatter .5g","Sweet Tooth",,Concentrates,Concentrate,true,false,false,true,0.5,,,u
+"Sweet Tooth shatter .25","Sweet Tooth",,Concentrates,Concentrate,true,false,false,true,0.25,,,u
+"Jack Frost shatter .25g","Jack Frost",,Concentrates,Concentrate,true,false,false,true,0.25,,,u
+"Medusa rosin 1g",Medusa,,Concentrates,Concentrate,true,false,false,true,1,,,u
+"Cannalope Haze 1g vape cart","Cannalope Haze",,Cartridges,Concentrate,true,false,false,true,1,,,u
+"Wedding Cake 1g vape cart","Wedding Cake",,Cartridges,Concentrate,true,false,false,true,1,,,u
+"Gelato 1g vape cart","Gelato OG",,Cartridges,Concentrate,true,false,false,true,1,,,u
+"Candyland bulk flower",Candyland,,Flower,Flower,true,true,false,true,,"King's Garden",,g
+"Sour Pebbles .5g vape cart","Sour Pebbles",,Cartridges,Concentrate,true,false,false,true,0.5,,,u
+"Jack Herer .5g vape cart","Jack Herer",,Cartridges,Concentrate,true,false,false,true,0.5,,,u
+"Cookies .5g vape cart",Cookies,,Cartridges,Concentrate,true,false,false,true,0.5,,,u
+"Sweet Tooth shatter 1g","Sweet Tooth",,Concentrates,Concentrate,true,false,false,true,1,,,u
+"Diamond Labs shatter 1g",,,Concentrates,Concentrate,true,false,false,true,1,,,u
+"GMO hash rosin 1g",,,Concentrates,Concentrate,true,false,false,true,1,,,u
+"Dirty Taxi live budder .5g",,,Concentrates,Concentrate,true,false,true,true,0.5,,,u
+"Black Triangle live sugar .5g",,,Concentrates,Concentrate,true,false,false,true,0.5,,,u
+"Live Diamonds .5g",,,Concentrates,Concentrate,true,false,false,true,0.5,,,u
+"Kong bulk flower",Kong,,Flower,Flower,true,true,false,true,,,,g
+"Venom OG bulk flower","Venom OG",,Flower,Flower,true,true,false,true,,,,g
+"Banana Balrog","Banana OG",,Flower,Flower,true,true,false,true,,,,g
+"9 Pound Hammer bulk flower","9 Pound Hammer",,Flower,Flower,true,true,true,true,,"Underhill Farms",,g
+"Blue Gelato bulk flower",,,Flower,Flower,true,true,false,true,,,,g
+"Mother Tongue bulk flower",,,Flower,Flower,true,true,true,true,,"Underhill Farms",,g
+"Mimosa bulk flower",Mimosa,,Flower,Flower,true,true,false,true,,"Chronic Farms",,g
+"Bubblegum OG vape cart","Bubblegum OG",,Cartridges,Concentrate,true,false,true,true,1,"Helix Extract LLC",,u
+"Blueberry Headband vape cart","Blueberry Headband",,Cartridges,Concentrate,true,false,false,true,1,"Helix Extract LLC",,u
+"Girl Scout Cookies vape cart","Girl Scout Cookies",,Cartridges,Concentrate,true,false,false,true,1,"Helix Extract LLC",,u
+"Gorilla Glue #4 (GG4)  vape cart",GG4,,Cartridges,Concentrate,true,false,true,true,1,"Helix Extract LLC",,u
+"Green Crack vape cart","Green Crack",,Cartridges,Concentrate,true,false,true,true,1,"Helix Extract LLC",,u
+"Purple Jolly Rancher vape cart","Purple Jolly Rancher",,Cartridges,Concentrate,true,false,false,true,1,"Helix Extract LLC",,u
+"Sour Diesel vape cart","Sour Diesel",,Cartridges,Concentrate,true,false,false,true,1,"Helix Extract LLC",,u
+"Strawnana vape cart",Strawnana,,Cartridges,Concentrate,true,false,false,true,1,"Helix Extract LLC",,u
+"Super Lemon Haze vape cart","Super Lemon Haze",,Cartridges,Concentrate,true,false,false,true,1,"Helix Extract LLC",,u
+"Watermelon OG vape cart","Watermelon OG",,Cartridges,Concentrate,true,false,false,true,1,"Helix Extract LLC",,u
+"White Tahoe Cookies vape cart","White Tahoe Cookies",,Cartridges,Concentrate,true,false,false,true,1,"Helix Extract LLC",,u
+"Smokiez Sweet Blackberry Fruit Chews 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,Smokiez,,u
+"Smokiez Sweet Blue Raspberry Fruit Chews 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,Smokiez,,u
+"Smokiez Sweet Green Apple Fruit Chews 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,Smokiez,,u
+"Smokiez Sweet Jamberry Fruit Chews 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,Smokiez,,u
+"Smokiez Sweet Peach Fruit Chews 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,Smokiez,,u
+"Smokiez Sour Blue Raspberry Fruit Chews 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,Smokiez,,u
+"Smokiez Sour Peach Fruit Chews 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,Smokiez,,u
+"Smokiez Sour Watermelon Fruit Chews 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,Smokiez,,u
+"Smokiez Sweet Tropical Fruit Chews 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,Smokiez,,u
+"Sour Diesel bulk flower","Sour Diesel",,Flower,Flower,true,true,false,true,,"King's Garden",,g
+"Smokiez Sweet Watermelon Fruit Chews 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,Smokiez,,u
+"Margarita Chill Gummies 100mg",,,Edibles,"Marijuana Product",true,false,true,true,100,"Stash House Distribution",,u
+"Indica Gummies 100mg",,,Edibles,"Marijuana Product",true,false,true,true,100,"Stash House Distribution",,u
+"Sativa Gummies 100mg",,,Edibles,"Marijuana Product",true,false,true,true,100,"Stash House Distribution",,u
+"Korova Black Bar",,,Edibles,"Marijuana Product",true,false,false,true,1000,Sublime,,u
+"Korova Fifty-One Fifty Bar",,,Edibles,"Marijuana Product",true,false,false,true,500,Sublime,,u
+"Korova Reverse Dip Cookie",,,Edibles,"Marijuana Product",true,false,false,true,250,Sublime,,u
+"Korova Salted Caramel Blondie",,,Edibles,"Marijuana Product",true,false,false,true,500,Sublime,,u
+"Korova White Cheddar Popcorn",,,Edibles,"Marijuana Product",true,false,false,true,300,Sublime,,u
+"Sublime Caramel Chew 100mg 5-Pack",,,Edibles,"Marijuana Product",true,false,false,true,500,Sublime,,u
+"Sublime Caramel Chew 20mg 5-Pack",,,Edibles,"Marijuana Product",true,false,true,true,100,Sublime,,u
+"Sublime Caramel Chew 50mg 5-Pack",,,Edibles,"Marijuana Product",true,false,false,true,250,Sublime,,u
+"Sublime Cookies & Cream Brownie",,,Edibles,"Marijuana Product",true,false,false,true,75,Sublime,,u
+"Sublime English Toffee Brownie",,,Edibles,"Marijuana Product",true,false,false,true,75,Sublime,,u
+"Sublime Mellow Rainbow Treat",,,Edibles,"Marijuana Product",true,false,false,true,50,Sublime,,u
+"Sublime PB Cup Brownie",,,Edibles,"Marijuana Product",true,false,false,true,75,Sublime,,u
+"Sublime Sweet & Savory",,,Edibles,"Marijuana Product",true,false,false,true,50,Sublime,,u
+"Cheeba Chews 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,"Stash House Distribution",,u
+"Hot Flamin' FireStixx",,,Edibles,"Marijuana Product",true,false,false,true,100,"Zion's Kitchen",,u
+"Fruitz Cereal",,,Edibles,"Marijuana Product",true,false,false,true,50,"Zion's Kitchen",,u
+"Koko Puffz Cereal",,,Edibles,"Marijuana Product",true,false,false,true,50,"Zion's Kitchen",,u
+"Jack Herer Preroll","Jack Herer",,Prerolls,Flower,true,false,false,true,1,"Twisted Extracts",,u
+"Northern Lights Preroll","Northern Lights",,Prerolls,Flower,true,false,false,true,1,"Twisted Extracts",,u
+"Sour Diesel Preroll","Sour Diesel",,Prerolls,Flower,true,false,false,true,1,"Twisted Extracts",,u
+"GG4 Preroll",GG4,,Prerolls,Flower,true,false,false,true,1,"Twisted Extracts",,u
+"Blue Dream Preroll","Blue Dream",,Prerolls,Flower,true,false,false,true,1,"Twisted Extracts",,u
+"LSK X Hashmaster bulk flower",,,Flower,Flower,true,true,false,true,,,,g
+"Forbidden Fruit bulk flower",,,Flower,Flower,true,true,false,true,,,,g
+"Comfortably Dumb bulk flower",,,Flower,Flower,true,true,false,true,,,,g
+"Pieface OG","Pieface OG",,Flower,Flower,true,true,false,true,,"Pleasant Plants Farm",,g
+"Durban Kush bulk flower","Durban Kush",,Flower,Flower,true,true,false,true,,"Pleasant Plants Farm",,g
+"Blackwater OG Preroll","Blackwater OG",,Prerolls,Flower,true,false,true,true,1,"Pleasant Plants Farm",,u
+"Pieface OG Preroll","Pieface OG",,Flower,Flower,true,true,true,true,,"Pleasant Plants Farm",,g
+"Nukeheads Preroll",NukeHeads,,Prerolls,Flower,true,false,false,true,1,"Pleasant Plants Farm",,u
+"Zsweet Insanity bulk flower","Zsweet Insanity",,Flower,Flower,true,true,true,true,,"Sooner State Wellness",,g
+"Fifth Dimension bulk flower","Fifth Dimension",,Flower,Flower,true,true,false,true,,Cannacopeia,,g
+"Gelato OG bulk flower","Gelato OG",,Flower,Flower,true,true,false,true,,"King's Garden",,g
+"Blue Dream bulk flower","Blue Dream",,Flower,Flower,true,true,false,true,,"Royal Leaf",,g
+"Berry White vape cart","Berry White",,Cartridges,Concentrate,true,false,false,true,1,"Helix Extract LLC",,u
+"Grape Stomper vape cart","Grape Stomper",,Cartridges,Concentrate,true,false,false,true,1,"Helix Extract LLC",,u
+"Purple Hindu Kush vape cart","Purple Hindu Kush",,Cartridges,Concentrate,true,false,false,true,1,"Helix Extract LLC",,u
+"Smokiez Sour Blue Raspberry Fruit Chews 250mg",,,Edibles,"Marijuana Product",true,false,false,true,250,Smokiez,,u
+"Smokiez Sweet Blue Raspberry Fruit Chews 250mg",,,Edibles,"Marijuana Product",true,false,false,true,250,Smokiez,,u
+"Smokiez Sour Blackberry Fruit Chews 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,Smokiez,,u
+"Smokiez Sweet Green Apple Fruit Chews 250mg",,,Edibles,"Marijuana Product",true,false,false,true,250,Smokiez,,u
+"Smokiez Sour Jamberry Fruit Chews 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,Smokiez,,u
+"Smokiez Sour Watermelon Fruit Chews 250mg",,,Edibles,"Marijuana Product",true,false,false,true,250,Smokiez,,u
+"Dirty Taxi bulk flower","Dirty Taxi",,Flower,Flower,true,true,false,true,,"Emerald Wholesale",,g
+"Motorbreath bulk flower",Motorbreath,,Flower,Flower,true,true,false,true,,"Emerald Wholesale",,g
+"Chem Punch Live Diamonds",,,Concentrates,Concentrate,true,false,false,true,1,,,u
+"Korova Mint Black Bar",,,Edibles,"Marijuana Product",true,false,false,true,1000,,,u
+"Korova Mint Dip Cookie",,,Edibles,"Marijuana Product",true,false,false,true,250,,,u
+"Korova Peanut Butter Dip Cookie",,,Edibles,"Marijuana Product",true,false,false,true,250,,,u
+"Korova Saturday Morning Cookie",,,Edibles,"Marijuana Product",true,false,false,true,150,,,u
+"Sublime Cinnamon Almond Coffee Cake",,,Edibles,"Marijuana Product",true,false,false,true,50,,,u
+"Sublime Blue Raspberry Sucker 25mg",,,Edibles,"Marijuana Product",true,false,false,true,25,,,u
+"Sublime Blue Raspberry Sucker 50 mg",,,Edibles,"Marijuana Product",true,false,false,true,50,,,u
+"Sublime Caramel Chew Single 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,,,u
+"Sublime Caramel Chew Single 20mg",,,Edibles,"Marijuana Product",true,false,false,true,20,,,u
+"Sublime Caramel Chew Single 50mg",,,Edibles,"Marijuana Product",true,false,true,true,50,,,u
+"Sublime Caramel Popcorn",,,Edibles,"Marijuana Product",true,false,false,true,50,,,u
+"Sublime Cherry Sucker 25mg",,,Edibles,"Marijuana Product",true,false,false,true,25,,,u
+"Sublime Cherry Sucker 50mg",,,Edibles,"Marijuana Product",true,false,false,true,50,,,u
+"Sublime Grape Sucker 25mg",,,Edibles,"Marijuana Product",true,false,false,true,25,,,u
+"Sublime Grape Sucker 50mg",,,Edibles,"Marijuana Product",true,false,false,true,50,,,u
+"Sublime Lemon Tea Cake 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,,,u
+"Sublime Lemon Tea Cake 50mg",,,Edibles,"Marijuana Product",true,false,false,true,50,,,u
+"Sublime Tangerine Sucker 25mg",,,Edibles,"Marijuana Product",true,false,false,true,25,,,u
+"Sublime Tangerine Sucker 50mg",,,Edibles,"Marijuana Product",true,false,true,true,50,,,u
+"Al Capone Punch bulk flower","Al Capone Punch",,Flower,Flower,true,true,false,true,,,,g
+"Chem D I95 bulk flower","Chem D I95",,Flower,Flower,true,true,false,true,,,,g
+"OGKB x Stardog bulk flower","OGKB x Stardog",,Flower,Flower,true,true,false,true,,,,g
+"Girl Scout Cookies bulk flower","Girl Scout Cookies",,Flower,Flower,true,true,false,true,,"King's Garden",,g
+"Biker Purps bulk flower","Biker Purps",,Flower,Flower,true,true,true,true,,"Emerald Wholesale",,g
+"Big Bubba Diesel bulk flower","Big Bubba Diesel",,Flower,Flower,true,true,false,true,,"Emerald Wholesale",,g
+"Gelato bulk flower",Gelato,,Flower,Flower,true,true,false,true,,"Emerald Wholesale",,g
+"Tropicana Cookies bulk flower","Tropicana Cookies",,Flower,Flower,true,true,false,true,,"Emerald Wholesale",,g
+"Trinity bulk flower",Trinity,,Flower,Flower,true,true,false,true,,"Emerald Wholesale",,g
+"Black Cherry Cola bulk flower","Black Cherry Cola",,Flower,Flower,true,true,false,false,,"Wholly Cannabis",,g
+"Do-Si-Dos bulk flower",Do-Si-Dos,,Flower,Flower,true,true,false,true,,"Wholly Cannabis",,g
+"Gorilla Fire bulk flower","Gorilla Fire",,Flower,Flower,true,true,false,true,,"Wholly Cannabis",,g
+"Holy Purple bulk flower","Holy Purple",,Flower,Flower,true,true,false,true,,"Wholly Cannabis",,g
+"Dirty Taxi Live Diamonds","Dirty Taxi",,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"Dirty Cookies Live Diamonds","Dirty Cookies",,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"Chem D I95 Live Diamonds","Chem D I95",,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"Grease Monkey shatter 1g","Grease Monkey",,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"Mimosa shatter 1g",Mimosa,,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"White Widow ounce special",,,Flower,Flower,true,false,false,true,28,"7 Leaf",,u
+"Amnesia ounce special",Amnesia,,Flower,Flower,true,false,false,true,28,"7 Leaf",,u
+"OG Kush ounce special","OG Kush",,Flower,Flower,true,false,false,true,28,"7 Leaf",,u
+"Blueberry Sundae Preroll 5-Pack","Blueberry Sundae",,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Ragnarok #3 Preroll 5-Pack","Ragnarok #3",,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Apple Jax Preroll 5-Pack","Apple Jax",,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Palm Beach Sour x Miami Orange bulk flower","Palm Beach Sour x Miami Orange",,Flower,Flower,true,true,false,true,,"Progressive Grow",,g
+"Pineapple Chunk bulk flower","Pineapple Chunk",,Flower,Flower,true,true,false,true,,"Progressive Grow",,g
+"Durban Poison Preroll 2-Pack","Durban Poison",,Prerolls,Flower,true,false,true,true,2,"Gorilla Gardens",,u
+"Gorilla Cookies Preroll 2-Pack","Gorilla Cookies",,Prerolls,Flower,true,false,true,true,2,"Gorilla Gardens",,u
+"Skywalker OG Preroll 2-Pack","Skywalker OG",,Prerolls,Flower,true,false,false,true,2,"Gorilla Gardens",,u
+"Lemon Skunk Preroll 2-Pack","Lemon Skunk",,Prerolls,Flower,true,false,false,true,2,"Gorilla Gardens",,u
+"Flo Preroll 2-Pack",Flo,,Prerolls,Flower,true,false,false,true,2,"Gorilla Gardens",,u
+"Juicy Fruit Preroll 2-Pack",,,Prerolls,Flower,true,false,false,true,2,"Gorilla Gardens",,u
+"Tangcicle Preroll 2-Pack",Tangcicle,,Prerolls,Flower,true,false,false,true,2,"Gorilla Gardens",,u
+"Gorilla Mix Preroll 2-Pack","Gorilla Mix",,Prerolls,Flower,true,false,false,true,2,"Gorilla Gardens",,u
+"Purple Punch shatter 1g","Purple Punch",,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"Al Capone Punch live diamonds .5g","Al Capone Punch",,Concentrates,Concentrate,true,false,false,true,0.5,"Diamond Labs",,u
+"Chem Punch live diamonds .5g",,,Concentrates,Concentrate,true,false,false,true,0.5,"Diamond Labs",,u
+"Dirty Taxi Terp Roll","Dirty Taxi",,Prerolls,Flower,true,false,false,true,1,"Diamond Labs",,u
+"Mary Jane's Salve .3 oz",,,"Body Care","Marijuana Product",true,false,false,true,0.3,"Desert Extracts",,u
+"Mary Jane's Salve 2 oz",,,"Body Care","Marijuana Product",true,false,false,true,2,"Desert Extracts",,u
+"Wonder Woman bulk flower","Wonder Woman",,Flower,Flower,true,true,false,true,,"King's Garden",,g
+"Smokiez Sour Blackberry Fruit Chews 250 mg",,,Edibles,"Marijuana Product",true,false,false,true,250,Smokiez,,u
+"Smokiez Sour Green Apple Fruit Chews 250 mg",,,Edibles,"Marijuana Product",true,false,false,true,250,Smokiez,,u
+"Smokiez Sour Green Apple Fruit Chews 100mg",,,Edibles,"Marijuana Product",true,false,false,true,250,Smokiez,,u
+"Gorilla Gas live diamonds 1g",,,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"OG Dirty Cookies live diamonds 1g",,,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"Kush Breath Punch live diamonds .5g",,,Concentrates,Concentrate,true,false,false,true,0.5,"Diamond Labs",,u
+"Peyote Cookies bulk flower","Peyote Cookies",,Flower,Flower,true,true,false,true,,,,g
+"Wedding Crasher bulk flower","Wedding Crasher",,Flower,Flower,true,true,false,true,,,,g
+"Mirage bulk flower",Mirage,,Flower,Flower,true,true,false,true,,Astoria,,g
+"Cinderella 99 bulk flower","Cinderella 99",,Flower,Flower,true,true,false,true,,"Red Man Kush",,g
+"Mountain Berry bulk flower","Mountain Berry",,Flower,Flower,true,true,false,true,,"Red Man Kush",,g
+"French Cookies bulk flower","French Cookies",,Flower,Flower,true,true,false,true,,"Red Man Kush",,g
+"Mandarin Cookies bulk flower","Mandarin Cookies",,Flower,Flower,true,true,false,true,,"Progressive Grow",,g
+"Lipsmacker bulk flower",Lipsmacker,,Flower,Flower,true,true,false,true,,"Progressive Grow",,g
+"GMO x MAC Preroll 5-Pack","MAC x GMO",,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"GMO Cookies Preroll 5-Pack","GMO Cookies",,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"XJ-13 Vape Cart 1g",XJ-13,,Cartridges,Concentrate,true,false,false,true,1,"Gold Rush Premium Extracts",,u
+"Strawberry Cough Vape Cart 1g","Strawberry Cough",,Cartridges,Concentrate,true,false,false,true,1,"Gold Rush Premium Extracts",,u
+"Pineapple Express Vape Cart 1g","Pineapple Express #2",,Cartridges,Concentrate,true,false,false,true,1,"Gold Rush Premium Extracts",,u
+"Super Jack Vape Cart 1g","Super Jack",,Cartridges,Concentrate,true,false,false,true,1,"Gold Rush Premium Extracts",,u
+"Mango Kush Vape Cart 1g","Mango Kush",,Cartridges,Concentrate,true,false,false,true,1,"Gold Rush Premium Extracts",,u
+"Blue Cheese Vape Cart 1g","Blue Cheese",,Cartridges,Concentrate,true,false,false,true,1,"Gold Rush Premium Extracts",,u
+"Grape Ape Vape Cart 1g","Grape Ape",,Cartridges,Concentrate,true,false,false,true,1,"Gold Rush Premium Extracts",,u
+"Zkittlez Vape Cart 1g",Zkittlez,,Cartridges,Concentrate,true,false,false,true,1,"Gold Rush Premium Extracts",,u
+"Grape God Vape Cart 1g","Grape God",,Cartridges,Concentrate,true,false,false,true,1,"Gold Rush Premium Extracts",,u
+"Runtz Vape Cart 1g",Runtz,,Cartridges,Concentrate,true,false,false,true,1,"Gold Rush Premium Extracts",,u
+"Lemon Skunk Vape Cart 1g","Lemon Skunk",,Cartridges,Concentrate,true,false,false,true,1,"Gold Rush Premium Extracts",,u
+"LSD bulk flower",LSD,,Flower,Flower,true,true,false,true,,"Sherweed Forest",,g
+"Stardawg bulk flower",Stardawg,,Flower,Flower,true,true,false,true,,"Sherweed Forest",,g
+"Big Bomb bulk flower","Big Bomb",,Flower,Flower,true,true,false,true,,"Sherweed Forest",,g
+"GMO bulk flower",GMO,,Flower,Flower,true,true,false,true,,,,g
+"XJ-13 bulk flower",XJ-13,,Flower,Flower,true,true,false,true,,"Five x Five",,g
+"Jillybean bulk flower",Jillybean,,Flower,Flower,true,true,false,true,,"Wholly Cannabis",,g
+"Death by Creamy Cookies live diamonds 1g",,,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"Death by Lemons live sugar 1g",,,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"Dirty Taxi crumble 1g","Dirty Taxi",,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"Granddaddy Purple bulk flower","Granddaddy Purple",,Flower,Flower,true,true,false,true,,"King's Garden",,g
+"Highway Cake live budder 1g",,,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"Holy Grail x Mendo x Meatbreath budder 1g",,,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"Forbidos bulk flower",Forbidos,,Flower,Flower,true,true,false,true,,"Mr. Sweet Budz",,g
+"Grape Headband bulk flower","Grape Headband",,Flower,Flower,true,true,false,true,,"Five x Five",,g
+"Triangle Mints bulk flower","Triangle Mints",,Flower,Flower,true,true,false,true,,"Emerald Wholesale",,g
+"Orange Crush Preroll 5-Pack","Orange Crush",,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Collinsworth Preroll 5-Pack",Collinsworth,,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Chem Ox Preroll 5-Pack","Chem Ox",,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Banana D Preroll 5-Pack","Banana D",,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Strawberry Banana Stash bulk flower","Strawberry Banana Stash",,Flower,Flower,true,true,false,true,,"Kanapes Farms",,g
+"The Black bulk flower","The Black",,Flower,Flower,true,true,false,true,,"Kanapes Farms",,g
+"Blackberry Dream bulk flower","Blackberry Dream",,Flower,Flower,true,true,false,true,,"Kanapes Farms",,g
+"Blue Cookies 5-Pack Prerolls","Blue Cookies",,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Smokiez Sweet Tropical Fruit Chews 250mg",,,Edibles,"Marijuana Product",true,false,true,true,250,Smokiez,,u
+"Smokiez Sweet Watermelon Fruit Chews 250mg",,,Edibles,"Marijuana Product",true,false,false,true,250,Smokiez,,u
+"Green Crack special bulk flower","Green Crack",,Flower,Flower,true,true,false,true,,Canna-Buds,,g
+"Gelato bulk flower half ounce special",Gelato,,Flower,Flower,true,true,true,true,,Canna-Buds,,g
+"White Widow bulk flower half ounce special",,,Flower,Flower,true,true,true,true,,Canna-Buds,,g
+"White Cookies bulk flower half ounce special","White Cookies",,Flower,Flower,true,true,true,true,,Canna-Buds,,g
+"Cali OG Kush bulk flower half ounce special","Cali OG Kush",,Flower,Flower,true,true,true,true,,Canna-Buds,,g
+"Cherry Pie bulk flower","Cherry Pie",,Flower,Flower,true,true,false,true,,"Five x Five",,g
+"Platinum Girl Scout Cookies bulk flower","Platinum Girl Scout Cookies",,Flower,Flower,true,true,false,true,,"Five x Five",,g
+"Purple Punch bulk flower","Purple Punch",,Flower,Flower,true,true,false,true,,"Five x Five",,g
+"Slurricane bulk flower",Slurricane,,Flower,Flower,true,true,false,true,,"Mr. Sweet Budz",,g
+"Witches Weed Preroll 2-Pack","Witches Weed",,Prerolls,Flower,true,false,false,true,2,"Gorilla Gardens",,u
+"Plum Delight Preroll 2-Pack","Plum Delight",,Prerolls,Flower,true,false,false,true,2,"Gorilla Gardens",,u
+"Critical Mass Preroll 2-Pack","Critical Mass",,Prerolls,Flower,true,false,false,true,2,"Gorilla Gardens",,u
+"Sweet Tooth shatter .5g","Sweet Tooth",,Concentrates,Concentrate,true,false,false,true,0.5,"Twisted Extracts",,u
+"Banana Hammock bulk flower","Banana Hammock",,Flower,Flower,true,true,false,true,,"Five x Five",,g
+"Wana 100mg Gummies - Blueberry Indica",,,Edibles,"Marijuana Product",true,false,false,true,100,"Stash House Distribution",,u
+"Wana 100mg Gummies - Mango Sativa",,,Edibles,"Marijuana Product",true,false,false,true,100,"Stash House Distribution",,u
+"Wana 100 mg Gummies - Watermelon Hybrid",,,Edibles,"Marijuana Product",true,false,false,true,100,"Stash House Distribution",,u
+"Rainmaker bulk flower",Rainmaker,,Flower,Flower,true,true,false,true,,"Sooner State Wellness",,g
+"LA OG bulk flower","LA OG",,Flower,Flower,true,true,false,true,,"Sooner State Wellness",,g
+"Black Triangle live budder 1g","Black Triangle",,Concentrates,Concentrate,true,false,true,true,1,"Diamond Labs",,u
+"Chem Punch live crumble 1g",,,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"Ambrr Alert bulk flower","Ambrr Alert",,Flower,Flower,true,true,false,true,,"Royal Leaf",,g
+"Kush Breath Punch live budder .5g",,,Concentrates,Concentrate,true,false,false,true,0.5,"Diamond Labs",,u
+"Mimosa sugar wax 1g",Mimosa,,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"Sour Chem De La Chem budder 1g",,,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"Margy Dog wax 1g",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Stardawg wax 1g",Stardawg,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Diesel Train shatter 1g",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Girl Scout Garlic shatter 1g",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Blue Dream shatter 1g","Blue Dream",,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Purple Kush shatter 1g",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"GG4 shatter 1g",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Wedding Cake shatter 1g",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Orange Creamsicle shatter 1g",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Jack Herer shatter 1g","Jack Herer",,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Trifi Cookies shatter 1g",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Lava Cake shatter 1g",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Sour Apple OG sugar 1g",,,Concentrates,Concentrate,true,true,false,true,,Apothecary,,g
+"Trifi Cookies sugar 1g",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Ethos Apex sugar 1g",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Sublime Cooking Oil - Coconut Oil 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,Sublime,,u
+"Sublime Cooking Oil - Extra Virgin Olive Oil 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,Sublime,,u
+"Smokiez Sour Tropical Fruit Chews 100mg",,,Edibles,"Marijuana Product",true,false,true,true,250,"Argent Cannabis",,u
+"Skywalker OG bulk flower","Skywalker OG",,Flower,Flower,true,true,false,true,,"Argent Cannabis",,g
+"Apothecary Concentrates",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Peanut Sundae Preroll 5-Pack",,,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Cali Orange Preroll 5-Pack",,,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Blueberry Pie Preroll 5-Pack",,,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"GMO Cookies infused blunt","GMO Cookies",,Prerolls,Flower,true,false,false,true,1,"CJ's Cannabis Junction",,u
+"Apple Jax infused blunt","Apple Jax",,Prerolls,Flower,true,false,false,true,1,"CJ's Cannabis Junction",,u
+"Bison Tincture Bruce CBD",,,Tinctures,"Marijuana Product",true,false,false,true,500,,,u
+"Bison Tincture Critical Mass indica",,,Tinctures,"Marijuana Product",true,false,false,true,500,,,u
+"Bison Tincture Good Ole Boy hybrid",,,Tinctures,"Marijuana Product",true,false,false,true,500,,,u
+"Bison Tincture Zweet Inzanity sativa","Zsweet Insanity",,Tinctures,"Marijuana Product",true,false,false,true,500,,,u
+"ChemDawg Bison .5 vape cart",,,Cartridges,"Marijuana Product",true,false,false,true,500,"Bison Extracts Inc",,u
+"Citral Glue Bison .5 vape cart",,,Cartridges,Concentrate,true,false,false,true,500,"Bison Extracts Inc",,u
+"Flo 3.0 Bison 0.5g vape cart",,,Cartridges,Concentrate,true,false,false,true,500,"Bison Extracts Inc",,u
+"Fruity Pebbles bulk flower","Fruity Pebbles",,Flower,Flower,true,true,false,true,,"Royal Leaf",,g
+"Golden Goat Bison 0.5g vape cart",,,Cartridges,Concentrate,true,false,false,true,500,"Bison Extracts Inc",,u
+"Pura Vida Bison 0.5g vape cart",,,Cartridges,Concentrate,true,false,false,true,500,"Bison Extracts Inc",,u
+"Skywalker Bison 0.5g vape cart","Skywalker OG",,Cartridges,Concentrate,true,false,false,true,500,"Bison Extracts Inc",,u
+"Sour Lemon OG Bison 0.5g vape cart",,,Cartridges,Concentrate,true,false,false,true,500,"Bison Extracts Inc",,u
+"Super Lemon Bison 0.5g vape cart",,,Cartridges,Concentrate,true,false,false,true,500,"Bison Extracts Inc",,u
+"Tangerine Dream Bison 0.5g vape cart",,,Cartridges,Concentrate,true,false,false,true,500,"Bison Extracts Inc",,u
+"Bison Gummies 240mg indica",,,Edibles,"Marijuana Product",true,false,false,true,240,"Bison Extracts Inc",,u
+"Bison Gummies 240mg sativa",,,Edibles,"Marijuana Product",true,false,false,true,240,"Bison Extracts Inc",,u
+"Tiger King ambrosia diamonds",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Okmulgee OG ambrosia diamonds",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Sour Sundae 1 Gram Preroll",,,Prerolls,Flower,true,false,false,true,1,"Red Man Kush",,u
+"Monster Cookies bulk flower","Monster Cookies",,Flower,Flower,true,true,false,true,,"Argent Cannabis",,g
+"Party Stick",,,Prerolls,Flower,true,false,false,true,20,"Argent Cannabis",,u
+"Lilac Diesel badder",,,Concentrates,Concentrate,true,false,false,true,1,"Noble Nectar",,u
+"Mimosa badder",Mimosa,,Concentrates,Concentrate,true,false,false,true,1,"Noble Nectar",,u
+"Noble Nectar GMO plasma",GMO,,Concentrates,Concentrate,true,false,true,true,1,"Noble Nectar",,u
+"Lemon Swirl plasma",,,Concentrates,Concentrate,true,false,false,true,1,"Noble Nectar",,u
+"Skywalker plasma","Skywalker OG",,Concentrates,Concentrate,true,false,false,true,1,"Noble Nectar",,u
+"Noble Nectar Mandarin Zkittlez plasma",Zkittlez,,Concentrates,Concentrate,true,false,true,true,1,"Noble Nectar",,u
+"Noble Nectar Sangria Lemonade plasma",,,Concentrates,Concentrate,true,false,true,true,1,"Noble Nectar",,u
+"Citral Glue terp diamonds",,,Concentrates,Concentrate,true,false,false,true,1,"Noble Nectar",,u
+"Lemon Swirl diamonds",,,Concentrates,Concentrate,true,false,false,true,1,"Noble Nectar",,u
+"GMO terp diamonds",,,Concentrates,Concentrate,true,false,false,true,1,"Noble Nectar",,u
+"Pure Indica bulk flower","Pure Indica",,Flower,Flower,true,true,false,true,,"Escalated Greens",,g
+"Cannalope Haze bulk flower",,,Flower,Flower,true,true,false,true,,"JJ Horticulture",,g
+"Hubba Bubba bulk flower",,,Flower,Flower,true,true,false,true,,"JJ Horticulture",,g
+"B17 bulk flower half ounce special",,,Flower,Flower,true,true,true,true,,"Panacea MMJ",,g
+"Fruity Pebbles bulk flower half ounce special","Fruity Pebbles",,Flower,Flower,true,true,true,true,,"Panacea MMJ",,g
+"Girl Scout Cookies bulk flower half ounce special","Girl Scout Cookies",,Flower,Flower,true,true,true,true,,"Panacea MMJ",,g
+"Diesel Train bulk flower half ounce special",,,Flower,Flower,true,true,true,true,,"Panacea MMJ",,g
+"Mimosa crumble 1g",,,Concentrates,Concentrate,true,false,false,true,1,"Diamond Labs",,u
+"Bootlegger 5-Pack Preroll",,,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Pizookies Preroll 5-Pack",,,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Sour Sunset Preroll 5-Pack",,,Prerolls,Flower,true,false,true,true,4,"CJ's Cannabis Junction",,u
+"Spark* Single Joint",,,Prerolls,Flower,true,false,true,true,1,,,u
+"Block Dog bulk flower","Block Dog",,Flower,Flower,true,true,false,true,,"Royal Leaf",,g
+"Spark* Blunt 2-Pack",,,Prerolls,Flower,true,false,false,true,2,"Spark* (Mozaic Holdings)",,u
+"Wedding Crasher 4g Baller Jar ambrosia","Wedding Crasher",,Concentrates,Concentrate,true,false,false,true,4,Apothecary,,u
+"Trifi Cookies 4g Baller Jar ambrosia batter",,,Concentrates,Concentrate,true,false,false,true,4,Apothecary,,u
+"Gushers 4g Baller Jar ambrosia batter",,,Concentrates,Concentrate,true,false,false,true,4,Apothecary,,u
+"3 in the Pink bulk flower",,,Flower,Flower,true,true,false,true,,"Treehouse Tribe LLC",,g
+"Brandywine bulk flower",,,Flower,Flower,true,true,false,true,,"Treehouse Tribe LLC",,g
+"Garlicane bulk flower",,,Flower,Flower,true,true,false,true,,"Treehouse Tribe LLC",,g
+"Timelapse bulk flower",,,Flower,Flower,true,true,false,true,,"Treehouse Tribe LLC",,g
+"Sublime Coco Crispy Treat 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,Sublime,,u
+"Sublime Oatmeal Cookie 50mg",,,Edibles,"Marijuana Product",true,false,true,true,50,Sublime,,u
+"Sublime Rice Crispy Treat 50mg",,,Edibles,"Marijuana Product",true,false,false,true,50,Sublime,,u
+"Dixie Gummies 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,"Stash House Distribution",,u
+"Dixie Mints 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,"Stash House Distribution",,u
+"Space Picks 50mg",,,Edibles,"Marijuana Product",true,false,false,true,50,"Stash House Distribution",,u
+"Dixie Elixir 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,"Stash House Distribution",,u
+"Green Hornet Gummies 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,"Stash House Distribution",,u
+"The Clear Disposable Pens 350mg",,,Cartridges,Concentrate,true,false,true,true,350,"Stash House Distribution",,u
+"Saints Joint Pack",,,Prerolls,Flower,true,false,false,true,3,"Stash House Distribution",,u
+"Saints Single Joint",,,Prerolls,Flower,true,false,false,true,1,"Stash House Distribution",,u
+"Stone Road Joint Pack",,,Prerolls,Flower,true,false,false,true,3,"Stash House Distribution",,u
+"Stone Road Single Joint",,,Prerolls,Flower,true,false,false,true,1,"Stash House Distribution",,u
+"Wana Gummies 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,"Stash House Distribution",,u
+"Top Hat Pinch Hitters",,,Prerolls,Flower,true,false,true,true,1,"Blue Wave Processing",,u
+"Head of Honey - Rex Juice budder 1g",,,Concentrates,Concentrate,true,false,false,true,1,"Danky Pharms",,u
+"Banana Hammock live diamonds 1g","Banana Hammock",,Concentrates,Concentrate,true,false,true,true,1,"CR 1090 LLC (Treehouse Tribe processing)",,u
+"Frank's Reserve live diamonds 1g",,,Concentrates,Concentrate,true,false,false,true,1,"CR 1090 LLC (Treehouse Tribe processing)",,u
+"Citradelic Sunset sugar sauce 1g",,,Concentrates,Concentrate,true,false,false,true,1,"CR 1090 LLC (Treehouse Tribe processing)",,u
+"Mandarin Cookies live diamonds 1g",,,Concentrates,Concentrate,true,false,false,true,1,"CR 1090 LLC (Treehouse Tribe processing)",,u
+"Zsweet Insanity sugar sauce 1g",,,Concentrates,Concentrate,true,false,false,true,1,"CR 1090 LLC (Treehouse Tribe processing)",,u
+"Banana Hammock Baller Jar 4g live diamonds",,,Concentrates,Concentrate,true,false,true,true,4,"CR 1090 LLC (Treehouse Tribe processing)",,u
+"Frank's Reserve Baller Jar 4g live diamonds",,,Concentrates,Concentrate,true,false,true,true,4,"CR 1090 LLC (Treehouse Tribe processing)",,u
+"Citradelic Sunset Baller Jar 4g sugar sauce",,,Concentrates,Concentrate,true,false,false,true,4,"CR 1090 LLC (Treehouse Tribe processing)",,u
+"Zsweet Insanity 4g Baller Jars sugar sauce",,,Concentrates,Concentrate,true,false,true,true,4,"CR 1090 LLC (Treehouse Tribe processing)",,u
+"Twisty's Delight bulk flower","Twisty Delight",,Flower,Flower,true,true,false,true,,"Little Sahara Farms",,g
+"Broke Ass Preroll",,,Prerolls,Flower,true,false,false,true,1,"Little Sahara Farms",,u
+"Edible Sample",,,Edibles,"Marijuana Product",true,true,false,true,,,,g
+"Birthday Cake Preroll 5-Pack",,,Prerolls,Flower,true,false,true,true,4,"CJ's Cannabis Junction",,u
+"Chocolate Mint bulk flower","Chocolate Mint",,Flower,Flower,true,true,false,true,,"Royal Leaf",,g
+"Master Kush Preroll 5-Pack",,,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Flagship DC99 Preroll 5-Pack",,,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"OG Cheese Preroll 5-Pack","OG Cheese",,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Skywalker OG Preroll 5-Pack","Skywalker OG",,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Jack Herer Preroll 5-Pack",,,Prerolls,Flower,true,false,false,true,4,"CJ's Cannabis Junction",,u
+"Banana Kush bulk flower","Banana Kush",,Flower,Flower,true,true,false,true,,"JJ Horticulture",,g
+"Dr. Who bulk flower",,,Flower,Flower,true,true,false,true,,"JJ Horticulture",,g
+"Royal Highness bulk flower","Royal Highness",,Flower,Flower,true,true,false,true,,"JJ Horticulture",,g
+"Cheeba Chews Sleepy Time 100mg",,,Edibles,"Marijuana Product",true,false,false,true,100,"Stash House Distribution",,u
+"Noble Nectar DabTabs - Sangria Lemonade",,,Concentrates,Concentrate,true,false,false,true,1000,"Noble Nectar",,u
+"Nice Cream Bar - Summer",,,Edibles,"Marijuana Product",true,false,false,true,50,"OK Nice Cream LLC",,u
+"Nice Cream Pint 250mg",,,Edibles,"Marijuana Product",true,false,false,true,250,"OK Nice Cream LLC",,u
+"Nice Cream Bar 50mg",,,Edibles,"Marijuana Product",true,false,false,true,50,"OK Nice Cream LLC",,u
+"OKC Thunder bulk flower",,,Flower,Flower,true,true,false,true,,"Little Sahara Farms",,g
+"Magnetar bulk flower",,,Flower,Flower,true,true,false,true,,"Little Sahara Farms",,g
+"ALTRD Mini Moonrocks - Purple Reign",,,Flower,Flower,true,false,false,true,1.5,"Releaf Laba (ALTRD)",,u
+"ALTRD Preroll 6-Pack - Blue Dream","Blue Dream",,Flower,Flower,true,false,false,true,4.5,"Releaf Laba (ALTRD)",,u
+"ALTRD 3 Thundersticks + 1 Moonrock",,,Prerolls,Flower,true,false,false,true,4,"Releaf Laba (ALTRD)",,u
+"ALTRD 2 Mini Thundersticks + 1 Moonrock",,,Prerolls,Flower,true,false,false,true,2.5,"Releaf Laba (ALTRD)",,u
+"ALTRD Thunderstick",,,Prerolls,Flower,true,false,false,true,1.2,"Releaf Laba (ALTRD)",,u
+"Noble Nectar DabTabs - Citral Glue",,,Concentrates,Concentrate,true,false,false,true,100,"Noble Nectar",,u
+"Noble Nectar DabTabs - Lemon Swirl",,,Concentrates,Concentrate,true,false,false,true,1000,"Noble Nectar",,u
+"Noble Nectar DabTabs - Mo'rockin Kush",,,Concentrates,Concentrate,true,false,false,true,1000,"Noble Nectar",,u
+"Noble Nectar DabTabs - Purple Berry Swirl",,,Concentrates,Concentrate,true,false,false,true,1000,"Noble Nectar",,u
+"Nice Cream Bar - Fruit 50mg",,,Edibles,"Marijuana Product",true,false,false,true,50,"OK Nice Cream LLC",,u
+"Sunday Extracts Klik Syringe - 1g",,,Concentrates,Concentrate,true,false,false,true,1,"Sunday Extracts",,u
+"White Widow bulk flower",,,Flower,Flower,true,true,false,true,,"Chronic Farms",,g
+"Glass Slipper bulk flower",,,Flower,Flower,true,true,false,true,,"JJ Horticulture",,g
+"Purple Mountain Majesty bulk flower",,,Flower,Flower,true,true,false,true,,"JJ Horticulture",,g
+"Macsantos bulk flower",,,Flower,Flower,true,true,true,true,,,,g
+"Gelato Mint bulk flower","Gelato Mint",,Flower,Flower,true,true,false,true,,"Earth Pharms",,g
+"Vanilla Gorilla bulk flower",,,Flower,Flower,true,true,false,true,,"Earth Pharms",,g
+"Insane in the Membrane bulk flower",,,Flower,Flower,true,true,false,true,,"Earth Pharms",,g
+"873 Labs Concentrate Sample",,,Concentrates,Concentrate,true,false,false,true,1,,,u
+"Tropicana Sour Punch bulk flower",,,Flower,Flower,true,true,false,true,,"Little Sahara Farms",,g
+"Penny Preroll",,,Prerolls,Flower,true,false,false,true,1,,,u
+"Platinum Kush bulk flower","Platinum Kush",,Flower,Flower,true,true,false,true,,"Royal Leaf",,g
+"Garlic Cookies bulk flower",,,Flower,Flower,true,true,false,true,,"Smith & Sons Farms",,g
+"Magic Melon",,,Flower,Flower,true,true,false,true,,"JJ Horticulture",,g
+"Apothecary GMO ambrosia",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Apothecary Buttercream Cake ambrosia 1g",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Columbian Shortbread ambrosia",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Orange Crush bulk flower","Orange Crush",,Flower,Flower,true,true,false,true,,"Smith & Sons Farms",,g
+"Strawberries & Cream bulk flower","Strawberries & Cream",,Flower,Flower,true,true,false,true,,"Argent Cannabis",,g
+"Miss USA bulk flower","Miss USA",,Flower,Flower,true,true,false,true,,"Argent Cannabis",,g
+"Smokiez 100mg Gummies",,,Edibles,"Marijuana Product",true,false,false,true,100,Smokiez,,u
+"Smokiez 250mg Gummies",,,Edibles,"Marijuana Product",true,false,false,true,250,Smokiez,,u
+"Gold Rush Vape Cartridge 1200mg",,,Cartridges,Concentrate,true,false,false,true,1200,"Gold Rush Premium Extracts",,u
+"Funk Preroll 2-Pack",,,Prerolls,Flower,true,false,true,true,2,"Gorilla Gardens",,u
+"AK-48 Preroll 2-Pack",AK-48,,Prerolls,Flower,true,false,false,true,2,"Gorilla Gardens",,u
+"Sunday Extracts Cured Resin Concentrates",,,Concentrates,"Test Batch",true,false,false,true,1,"Sunday Extracts",,u
+"Sunday Extracts Cured Resin 0.5g vape cart",,,Cartridges,"Test Batch",true,false,false,true,500,"Sunday Extracts",,u
+"Apothecary Starmalade Ambrosia Batter",,,Concentrates,Concentrate,true,false,false,true,1,Apothecary,,u
+"Flagship Durban C-99 bulk flower",,,Flower,Flower,true,true,false,true,,,,g
+"Trainwreck bulk flower",,,Flower,"Test Batch",true,true,false,true,,,,g
+"Smokiez Sweet Blackberry Fruit Chews 250 mg",,,Edibles,"Marijuana Product",true,false,false,true,250,Smokiez,,u
+"Palm Beach Sour",,,Flower,"Test Batch",true,true,false,true,,"Little Sahara Farms",,g
+"Noble Nectar Lemon Swirl Plasma Baller Jar",,,Concentrates,"Test Batch",true,false,false,true,3.5,"Noble Nectar",,u
+"Noble Nectar Purple Berry Swirl plasma",,,Concentrates,Concentrate,true,false,false,true,1,"Noble Nectar",,u
+"Noble Nectar Early Jack plasma",,,Concentrates,Concentrate,true,false,false,true,1,"Noble Nectar",,u
